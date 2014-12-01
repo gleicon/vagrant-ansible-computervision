@@ -1,0 +1,8 @@
+- name: install opencv packages debian/ubuntu
+  apt: pkg={{ item }} state=latest
+  with_items:
+    - python-numpy
+    - python-scipy
+    - python-matplotlib
+    - python-opencv
+

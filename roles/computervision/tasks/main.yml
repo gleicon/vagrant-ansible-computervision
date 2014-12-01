@@ -1,0 +1,7 @@
+- name: install mahotas
+  pip: name=mahotas
+
+- name: install bpython
+  pip: name=bpython
+
+
