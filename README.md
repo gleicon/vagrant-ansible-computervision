@@ -12,8 +12,8 @@ This repository contains a Vagrantfile and Ansible setup to create an Ubuntu 14.
 
 ## Locally with Vagrant
 
-$ vagrant up 
-$ vagrant ssh
+    - $ vagrant up 
+    - $ vagrant ssh
 
 ## Remotely with your cloud of preference
     
